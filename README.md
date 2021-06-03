@@ -20,4 +20,4 @@ B. R. de Abreu, "*Project name*", *---- url to git repo----*. National Center fo
 - *url to git repo* is.... the URL to the project's repository. 
 - *Year* can be checked by looking at the date the last commit was made.
 
-If you are still uncertain about how to cite-me, or concerned about the license terms or copyrights, please do not hesitate to contact me: babreu@illinois.edu.
+If you are still uncertain about how to cite-me, or concerned about the license terms or copyrights, please do not hesitate to contact me: babreu at illinois dot edu.
