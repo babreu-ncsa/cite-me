@@ -1,5 +1,5 @@
 # cite-me
-Instructions on how to cite code from this Github
+**Instructions on how to cite code from this Github**
 
 
 Any source file that you will find in this GitHub presents a header that contains the following license term:
