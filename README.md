@@ -2,7 +2,6 @@
 **Instructions on how to cite code from this Github**
 
 
-Making a change
 
 Any source file that you will find in this GitHub presents a header that contains the following license term:
 
