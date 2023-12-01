@@ -5,14 +5,14 @@
 
 Any source file that you will find in this GitHub presents a header that contains the following license term:
 
-"This program and the accompanying materials are made available to any individual under the citation condition that follows: On the event that the software is used to generate data that is used implicitly or explicitly for research purposes, proper acknowledgment must be provided in the citations section of publications. This includes both the author's name and the National Center for Supercomputing Applications. If you are uncertain about how to do that, please check this page: *URL*. This software cannot be used for commercial purposes in any way whatsoever. Omitting this license when redistributing the code is strongly disencouraged. The software is provided without warranty of any kind. In no event shall the author or copyright holders be liable for any kind of claim in connection to the software and its usage."
+"This program and the accompanying materials are made available to any individual under the citation condition that follows: In the event that the software is used to generate data that is used implicitly or explicitly for research purposes, the proper acknowledgment must be provided in the citations section of publications. This includes both the author's name and the National Center for Supercomputing Applications. If you are uncertain how to do that, please check this page: *URL*. This software cannot be used for commercial purposes in any way whatsoever. Omitting this license when redistributing the code is strongly discouraged. The software is provided without warranty of any kind. In no event shall the author or copyright holders be liable for any claim concerning the software and its usage."
 
-This is the page with further clarification on how to cite-me. In general, each GitHub project has a name, which appears in the git url. An appropriate citation would contain my name and the name of the institution that I am working for by the time these codes are being produced, as well as the url to the associated git repo. Here's my suggestion:
-
-
+This is the page with further clarification on how to cite-me. Each GitHub project generally has a name appearing in the git URL. An appropriate citation would contain my name and the name of the institution I work for by the time these codes are being produced and the URL to the associated git repo. Here's my suggestion:
 
 
-B. R. de Abreu, "*Project name*", *---- url to git repo----*. National Center for Supercomputing Applications (NCSA), *Year*
+
+
+B. Abreu, "*Project name*", *---- url to git repo----*. National Center for Supercomputing Applications (NCSA), *Year*
 
 
 
